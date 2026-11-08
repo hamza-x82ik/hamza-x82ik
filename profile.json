@@ -1,0 +1,30 @@
+{
+  "github_user": "hamza-x82ik",
+  "header": "hamza@x82ik",
+  "closing_line": "# Have a nice day kind stranger :D Thanks for stopping by!",
+  "lines": [
+    ["kv", ["OS"], "Windows 11, Kali Linux, Android, iOS"],
+    ["kv", ["Uptime"], "20 years"],
+    ["kv", ["Host"], "NUTECH, Islamabad"],
+    ["kv", ["Kernel"], "BS Artificial Intelligence '30"],
+    ["kv", ["IDE"], "VSCode, PyCharm, Arduino IDE, Kiro"],
+    ["dot"],
+    ["kv", ["Languages", "Programming"], "C++, Python, HTML, CSS, JS"],
+    ["kv", ["Languages", "Real"], "English, Urdu, Punjabi"],
+    ["kv", ["Languages", "Learning"], "German, Spanish"],
+    ["dot"],
+    ["kv", ["Focus", "Learning"], "Cybersecurity, AI, Robotics"],
+    ["kv", ["Focus", "Building"], "Hardware + software projects"],
+    ["kv", ["Hobbies", "Fun"], "Vibe coding, Hackathons"],
+    ["kv", ["Hobbies", "Making"], "Random hardware & software builds"],
+    ["gap"],
+    ["hdr", "- Contact"],
+    ["kv", ["Email", "Personal"], "alihamzamohammad5@gmail.com"],
+    ["kv", ["LinkedIn"], "hamza210"],
+    ["kv", ["Instagram"], "x82ik"],
+    ["kv", ["Discord"], "magarmach_gupta"],
+    ["gap"],
+    ["hdr", "- GitHub Stats"],
+    ["stats"]
+  ]
+}

@@ -1,16 +1,16 @@
-## Hi there 👋
+<a href="https://github.com/hamza-x82ik/hamza-x82ik">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamza-x82ik/hamza-x82ik/main/dark_mode.svg">
+    <img alt="Muhammad Hamza Ali's GitHub profile" src="https://raw.githubusercontent.com/hamza-x82ik/hamza-x82ik/main/light_mode.svg">
+  </picture>
+</a>
 
-<!--
-**hamza-x82ik/hamza-x82ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+| Project | What it is | Built with |
+|---|---|---|
+| [FacilityFlow](https://github.com/hamza-x82ik/facilityflow) | Campus maintenance & incident platform with photo proof, escalation and reminders. **Top 5** at the Fastn Online Hackathon 2026. | Fastn |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Favourite ebooks
+
+<a href="https://www.gutenberg.org/ebooks/1400"><img src="assets/great-expectations.svg" alt="Great Expectations" height="200"></a>
